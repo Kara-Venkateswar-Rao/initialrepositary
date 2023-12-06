@@ -1,3 +1,3 @@
 # initialrepositary
 My first repository on GitHub..<br>
-Author - Venkateswar
+Author - Kara Venkateswar Rao.
